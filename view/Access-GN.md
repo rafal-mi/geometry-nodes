@@ -12,5 +12,7 @@ bpy.data.objects['Plane'].modifiers
 >>> types
 ['NODES']
 
+
+>>> bpy.data.node_groups['total view.001'].nodes['Transform'].inputs['Scale'].
 >>> 
 ```
